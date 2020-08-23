@@ -1,1 +1,3 @@
 # getVideoTitleYoutube
+Gets the list of Video titles from a given playlist(provide the link to the playlist) and stores it in a text document. 
+The motivation for this project comes from the fact that I'm an avid anime watcher (or used to be) and I love listening to AMVs (Anime Music Videos). However sometimes the videos get deleted and when you have more than 250 videos in your playlist it is impossible to keep track of which one is missing. So I use this to get the list once a month and compare it to the previous list (you can use another python program for it. I plan on adding it to the repo) and add the lost ones again cause someone might have reuploaded it.
